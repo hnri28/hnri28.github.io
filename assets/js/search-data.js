@@ -423,9 +423,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-utat-uas-firefighting-drone-payload-using-plunger-intake-and-discharge-mechanism",
-          title: 'UTAT UAS Firefighting Drone Payload using Plunger Intake and Discharge Mechanism',
-          description: "with background image",
+          section: "News",},{id: "projects-utat-uas-mechanical-design-and-manufacturing-firefighting-drone-payload",
+          title: 'UTAT UAS Mechanical - Design and Manufacturing Firefighting Drone Payload',
+          description: "using plunger intake and discharge mechanism",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-robotics-control-programming-and-data-analysis-for-autonomous-mobile-manipulator-robot",
