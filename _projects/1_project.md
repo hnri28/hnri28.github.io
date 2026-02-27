@@ -1,7 +1,7 @@
 ---
 layout: page
-title: UTAT UAS Firefighting Drone Payload using Plunger Intake and Discharge Mechanism
-description: with background image
+title: UTAT UAS Mechanical - Design and Manufacturing Firefighting Drone Payload
+description: using plunger intake and discharge mechanism
 img: assets/img/12.jpg
 importance: 1
 category: work
@@ -11,6 +11,7 @@ related_publications: true
 Testing ABC
 
 <!--
+Testtt hello
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
