@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv_pdf/
+permalink: /assets/pdf/HenryChu_Feb26_2026_Resume.pdf
 title: CV
 nav: true
 nav_order: 5
