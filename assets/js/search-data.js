@@ -439,9 +439,9 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-startup-work-experience-at-a-drone-building-inspection-company-in-hong-kong",
+          title: 'Startup Work Experience at a drone building inspection company in Hong Kong',
+          description: "Raspect Intelligence Inspection Limited",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
