@@ -9,12 +9,13 @@ category: work
 ---
 
 What?
-Design and implement a PCV-based current sensing solution to accurately measure 0-3.5 A load current and output a microcontroller-compatible analog signal (0.25-3.3V) for integration into a closed-loop DC power supply.
+Design and implement a PCV-based current sensing solution to accurately measure <b>0-3.5 A</b> load current and output a <b>microcontroller-compatible</b> analog signal (0.25-3.3V) for integration into a closed-loop DC power supply.
 
 How?
 - Designed a low-side current sense amplifier using a single-supply op-amp architecture, selecting gain and offset to map shunt voltage into the ADC input range while avoiding saturation.
 - Simulated circuit behaviour in LTSpice to validate gain, offset stability, and filtering for expected operation.
-- Created complete schematics, BOM, and 2-layer PCB layout in EAGLE, applying
+- Created complete schematics, BOM, and 2-layer PCB layout in EAGLE, applying good analog layout practices (short signal paths, ground pours, decoupling).
+- Fabricated, soldered, and debugged the PCB, then integrated it into a microcontroller-controlled power supply for system-level testing.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
