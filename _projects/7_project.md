@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-I had the great pleasure of working at a drone inspection startup in Hong Kong during the summer of 2023. The company is called Raspect Intelligence Inspection Limited and focuses on residential and commercial building facade inspections, as well as structural inspections of major government infrastructure in Hong Kong. Rapsect leverages computer vision and AI detection software to identify structural defects 
+I had the great pleasure of working at a drone inspection startup in Hong Kong during the summer of 2023. The company is called Raspect Intelligence Inspection Limited and focuses on residential and commercial building facade inspections, as well as structural inspections of major government infrastructure in Hong Kong. Rapsect leverages computer vision and AI detection software to identify structural defects in buildings and infrastructure.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
