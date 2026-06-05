@@ -1,25 +1,20 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: PCB Design - Current Sense Amplifier for DC Power Supply
+description: a PCB Design and fabrication project
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: 
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+What?
+Design and implement a PCV-based current sensing solution to accurately measure 0-3.5 A load current and output a microcontroller-compatible analog signal (0.25-3.3V) for integration into a closed-loop DC power supply.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+How?
+- Designed a low-side current sense amplifier using a single-supply op-amp architecture, selecting gain and offset to map shunt voltage into the ADC input range while avoiding saturation.
+- Simulated circuit behaviour in LTSpice to validate gain, offset stability, and filtering for expected operation.
+- Created complete schematics, BOM, and 2-layer PCB layout in EAGLE, applying
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
