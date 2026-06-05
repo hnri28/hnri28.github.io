@@ -419,9 +419,9 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-pcb-design-current-sense-amplifier-for-dc-power-supply",
+          title: 'PCB Design - Current Sense Amplifier for DC Power Supply',
+          description: "a PCB Design and fabrication project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
